@@ -11,7 +11,7 @@
     "href": "posts/Toolbox/서버접속.html",
     "title": "서버접속",
     "section": "",
-    "text": "서버접속\nssh {name}@0.0.0.0\n\n\n\n블로그 생성\nquarto create-project --type website:blog\ngit add .\ngit commit -m .\ngit push\nquarto publish gh-pages\n\n\n수정\ngit add .\ngit commit -m .\ngit push\nquarto publish --no-browser --no-prompt"
+    "text": "서버접속\n\nssh {name}@0.0.0.0\n\n\n\n\n블로그 생성\n\nquarto create-project --type website:blog\ngit add .\ngit commit -m .\ngit push\nquarto publish gh-pages\n\n\n\n수정\n\ngit add .\ngit commit -m .\ngit push\nquarto publish --no-browser --no-prompt"
   },
   {
     "objectID": "index.html",
