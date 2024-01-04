@@ -17,6 +17,12 @@ title-block-banner: true
 
 This is Baek's blog !!
 
+---
+
+
+**links**
+
+::: {.panel-tabset} 
 
 ## Study
 - [**github**](https://github.com/baekgyeongmin)
@@ -26,3 +32,4 @@ This is Baek's blog !!
 - [**github**](https://github.com/baekgyeongmin)
 
 
+:::
