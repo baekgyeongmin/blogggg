@@ -1,12 +1,12 @@
 ---
-title: "blogggg"
 listing:
   contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
+  sort: [date desc,title]
+  type: table
+  categories: false
   sort-ui: false
-  filter-ui: false
+  filter-ui: true
+  page-size: 9999
 page-layout: full
 title-block-banner: true
 ---
